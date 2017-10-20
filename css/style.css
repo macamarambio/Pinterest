@@ -138,6 +138,7 @@ li {
 	float: left;
 	padding: 5px;
 	opacity: 0.5;
+	background-image: url(https://s-media-cache-ak0.pinimg.com/111x55_sf-76/93/ca/23/93ca239….jpg);
 }
 li a {
 	color: #FFF;
@@ -150,23 +151,26 @@ li a {
 }
 .image {
 	position: relative;
-	margin-top: 75px;
+	margin-top: 30px;
 	margin-left: 40px;
-	float: left;
+	margin-right: 20px;
+	width: 1275px;
+	height: auto;
 }
-.image2 {
-	position: relative;
-	top:40px;
-	float: left;
-	margin-left: 40px;
-}
+
+ .filas{
+ 	float: left;
+ 	width: 255px;
+ 	margin-bottom: 30px;
+ }
+
+
 img {
 	border-radius: 8px;
-	margin-right: 20px;
+	margin-bottom: 30px;
 }
 img:hover{
 	cursor:zoom-in;
 }
-
 
 
